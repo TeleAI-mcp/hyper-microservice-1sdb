@@ -1,2 +1,3 @@
-# hyper-microservice-1sdb
-A repository to test GitHub automation for issue management
+# Hyper Microservice 1Sdb
+
+A repository to test GitHub automation for issue management.
